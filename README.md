@@ -1,1 +1,1 @@
-# 5588-LLM-Hands-On
+# LLM Hands-On Project
